@@ -1,0 +1,19 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "WORKFLOW_SCHEDULE": "0 */15 * * * *",
+    "LOG_TO_CONSOLE": "true",
+    "PROJECT_ENDPOINT": "",
+    "AZURE_AI_API_KEY": "",
+    "AGENT_ID_DETERMINE_THE_EMAIL_INTENT": "",
+    "AGENT_VERSION_DETERMINE_THE_EMAIL_INTENT": "1",
+    "MCP_MYEMAILMCPSERVER_ENDPOINT": "https://mcp-myemailmcpserver.thankfulmushroom-e8ac5ce8.swedencentral.azurecontainerapps.io/mcp",
+    "COSMOS_DB_ENDPOINT": "",
+    "COSMOS_DB_DATABASE": "",
+    "COSMOS_DB_KEY": "",
+    "WORKFLOW_ID": "",
+    "WORKFLOW_NAME": "Support-mailbox-automation"
+  }
+}
